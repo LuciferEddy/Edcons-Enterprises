@@ -914,7 +914,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  /* background: rgba(0, 44, 102, 0.95); */
+  background: rgba(0, 44, 102, 0.95);
 }
 
 .portfolio .portfolio-wrap .portfolio-links a+a {
